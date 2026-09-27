@@ -18,7 +18,7 @@
 터미널에서 아래 명령어 실행:
 
 ```bash
-git clone https://github.com/popup-studio-ai/AI-driven-work.git
+git clone https://github.com/ww-w-ai/AI-driven-work.git
 cd AI-driven-work/installer_popup
 ```
 

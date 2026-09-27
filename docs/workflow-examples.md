@@ -1,6 +1,6 @@
 # 업무 플로우 예시
 
-POPUP STUDIO의 AI-driven 업무 프로세스는 **Claude Code를 중심으로 모든 작업이 진행**됩니다.
+DubDubDub Corp.의 AI-driven 업무 프로세스는 **Claude Code를 중심으로 모든 작업이 진행**됩니다.
 
 ## AI-Driven 업무의 핵심 원칙
 
@@ -129,7 +129,7 @@ claude
 ### 1일차: 환경 설정
 ```bash
 # 1. 리포지토리 클론
-git clone https://github.com/popup-studio/AI-driven-work.git
+git clone https://github.com/ww-w-ai/AI-driven-work.git
 cd AI-driven-work
 
 # 2. 환경 설정 스크립트 실행
@@ -917,4 +917,4 @@ Sprint 5 계획을 Confluence에 정리해줘
 **작성일**: 2025-11-07
 **작성자**: Claude Code
 **버전**: 2.0 (AI-Driven 업무 프로세스 반영)
-**대상**: POPUP STUDIO 전 직원
+**대상**: DubDubDub Corp. 전 직원

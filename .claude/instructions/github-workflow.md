@@ -1,7 +1,7 @@
 # GitHub 워크플로우 및 브랜치 전략
 
 > **프로젝트**: AI-driven-work (오픈소스)
-> **리포지토리**: https://github.com/popup-studio-ai/AI-driven-work
+> **리포지토리**: https://github.com/ww-w-ai/AI-driven-work
 > **작성일**: 2025-11-08
 > **작성자**: 김경호 (popup-kay)
 

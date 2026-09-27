@@ -135,7 +135,7 @@ AI 관련 최신 뉴스와 정보를 웹에서 검색하여 Confluence에 자동
 
 ---
 
-## 💡 bkend/POPUP STUDIO 적용 아이디어
+## 💡 bkend/DubDubDub Corp. 적용 아이디어
 
 ### 마케팅 전략
 - [이번 주 뉴스에서 얻은 마케팅 아이디어]

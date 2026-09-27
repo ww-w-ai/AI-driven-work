@@ -1,10 +1,10 @@
 # AI-Driven Work
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/v/release/popup-studio-ai/AI-driven-work)](https://github.com/popup-studio-ai/AI-driven-work/releases)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/popup-studio-ai/AI-driven-work/pulls)
+[![GitHub release](https://img.shields.io/github/v/release/ww-w-ai/AI-driven-work)](https://github.com/ww-w-ai/AI-driven-work/releases)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ww-w-ai/AI-driven-work/pulls)
 
-POPUP STUDIO의 AI Agent를 활용한 업무 프로세스 개선 프로젝트입니다.
+DubDubDub Corp.의 AI Agent를 활용한 업무 프로세스 개선 프로젝트입니다.
 
 ---
 
@@ -478,7 +478,7 @@ cd C:\Users\YourName\Documents\GitHub\popup\AI-driven-work
 
 ## 기여 방법
 
-POPUP STUDIO 전 직원이 이 리포지토리를 참고하여 업무를 진행합니다.
+DubDubDub Corp. 전 직원이 이 리포지토리를 참고하여 업무를 진행합니다.
 개선 사항이나 제안이 있다면 이슈를 등록하거나 Pull Request를 생성해주세요.
 
 ### 기여 가이드라인
@@ -510,7 +510,7 @@ POPUP STUDIO 전 직원이 이 리포지토리를 참고하여 업무를 진행�
 
 ```bash
 # 1. 리포지토리 클론
-git clone https://github.com/popup-studio-ai/AI-driven-work.git
+git clone https://github.com/ww-w-ai/AI-driven-work.git
 
 # 2. 자신의 팀/회사에 맞게 커스터마이징
 cd AI-driven-work
@@ -526,7 +526,7 @@ git checkout -b feature/my-improvement
 ```
 MIT License
 
-Copyright (c) 2025 POPUP STUDIO
+Copyright (c) 2025 DubDubDub Corp.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -537,6 +537,6 @@ in the Software without restriction...
 
 ---
 
-**Made with ❤️ by POPUP STUDIO**
+**Made with ❤️ by DubDubDub Corp.**
 
 **Powered by [Claude Code](https://claude.com/claude-code)**

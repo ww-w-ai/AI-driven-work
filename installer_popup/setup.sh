@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# POPUP STUDIO MCP Setup Script
+# DubDubDub Corp. MCP Setup Script
 # Usage: chmod +x setup.sh && ./setup.sh
 
 set -e
@@ -15,7 +15,7 @@ NC='\033[0m' # No Color
 
 echo ""
 echo "=========================================="
-echo -e "${BLUE}🚀 POPUP STUDIO AI-Driven Work${NC}"
+echo -e "${BLUE}🚀 DubDubDub Corp. AI-Driven Work${NC}"
 echo "=========================================="
 echo ""
 echo "이 스크립트는 Claude Code와 Atlassian MCP Server를 설정합니다."

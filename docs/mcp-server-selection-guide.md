@@ -708,7 +708,7 @@ flowchart TD
 
 ---
 
-## POPUP STUDIO 최종 권장사항
+## DubDubDub Corp. 최종 권장사항
 
 ### 직군별 MCP 서버
 
@@ -819,4 +819,4 @@ cd AI-driven-work
 **작성일**: 2025-11-06
 **작성자**: Claude Code
 **버전**: 1.0
-**대상**: POPUP STUDIO 전 직원
+**대상**: DubDubDub Corp. 전 직원
