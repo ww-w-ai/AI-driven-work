@@ -161,7 +161,7 @@ graph TD
 # 마케팅팀 Claude Code 사용 규칙
 
 ## 회사 정보
-- 회사명: POPUP STUDIO
+- 회사명: DubDubDub Corp.
 - 업종: B2B SaaS (HR 솔루션)
 - 타겟 고객: 50-500인 규모 IT 기업
 

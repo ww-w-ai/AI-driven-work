@@ -1,4 +1,4 @@
-# POPUP STUDIO MCP Setup Script
+# DubDubDub Corp. MCP Setup Script
 # Usage: powershell -ep bypass -File setup.ps1
 
 $ErrorActionPreference = "Stop"
@@ -25,7 +25,7 @@ function Write-Info {
 
 Write-Host ""
 Write-Host "==========================================" -ForegroundColor Blue
-Write-Host "   POPUP STUDIO AI-Driven Work" -ForegroundColor Blue
+Write-Host "   DubDubDub Corp. AI-Driven Work" -ForegroundColor Blue
 Write-Host "==========================================" -ForegroundColor Blue
 Write-Host ""
 Write-Host "This script sets up Claude Code and Atlassian MCP Server."

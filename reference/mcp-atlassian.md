@@ -586,7 +586,7 @@ SOCKS_PROXY=socks5://proxy.company.com:1080
 - ✅ **OAuth 선호**: 토큰 관리 부담 회피
 - ✅ **일반 업무**: 사용량이 적음
 
-### POPUP STUDIO 권장 사항
+### DubDubDub Corp. 권장 사항
 
 **주 사용**: **mcp-atlassian (sooperset)**
 
@@ -599,7 +599,7 @@ SOCKS_PROXY=socks5://proxy.company.com:1080
 
 **보조 사용**: Rovo MCP Server (간단한 조회 작업)
 
-## 설치 및 설정 가이드 (POPUP STUDIO)
+## 설치 및 설정 가이드 (DubDubDub Corp.)
 
 ### 1단계: Docker 설치 확인
 
@@ -825,7 +825,7 @@ JIRA_SSL_VERIFY=false
 - 🏢 **Server/Data Center 지원** (온프레미스 환경)
 - 🛡️ **보안 강화** (필터링, 읽기 전용 모드)
 
-**POPUP STUDIO에서는 mcp-atlassian을 주력으로 사용**하며, 간단한 조회 작업에는 Rovo MCP Server를 보조로 활용하는 것을 권장합니다.
+**DubDubDub Corp.에서는 mcp-atlassian을 주력으로 사용**하며, 간단한 조회 작업에는 Rovo MCP Server를 보조로 활용하는 것을 권장합니다.
 
 ---
 

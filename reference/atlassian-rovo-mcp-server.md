@@ -303,7 +303,7 @@ npx -y mcp-remote https://mcp.atlassian.com/v1/sse
 - ✅ 보안 정책상 외부 서비스 사용 제한
 - ✅ 안정성이 최우선
 
-### 우리 회사(POPUP STUDIO) 권장 사항
+### 우리 회사(DubDubDub Corp.) 권장 사항
 
 **Atlassian Rovo MCP Server를 기본으로 사용**하되, 다음 상황에서는 mcp-atlassian 병행:
 

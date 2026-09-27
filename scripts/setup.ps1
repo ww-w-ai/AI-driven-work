@@ -1,4 +1,4 @@
-# POPUP STUDIO AI-Driven Work 환경 설정 스크립트 (Windows PowerShell)
+# DubDubDub Corp. AI-Driven Work 환경 설정 스크립트 (Windows PowerShell)
 # Claude Code와 Atlassian MCP Server를 설정합니다.
 
 # 에러 발생 시 중단
@@ -15,7 +15,7 @@ function Write-ColorOutput {
 
 Write-Host ""
 Write-Host "==========================================" -ForegroundColor Blue
-Write-Host "🚀 POPUP STUDIO AI-Driven Work" -ForegroundColor Blue
+Write-Host "🚀 DubDubDub Corp. AI-Driven Work" -ForegroundColor Blue
 Write-Host "==========================================" -ForegroundColor Blue
 Write-Host ""
 Write-Host "이 스크립트는 Claude Code와 Atlassian MCP Server를 설정합니다."

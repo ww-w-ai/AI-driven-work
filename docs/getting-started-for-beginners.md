@@ -76,7 +76,7 @@
 터미널에 다음 명령어를 **복사해서 붙여넣기**하세요:
 
 ```bash
-git clone https://github.com/popup-studio-ai/AI-driven-work.git
+git clone https://github.com/ww-w-ai/AI-driven-work.git
 cd AI-driven-work
 ```
 
@@ -153,7 +153,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 PowerShell에 다음 명령어를 입력:
 
 ```powershell
-git clone https://github.com/popup-studio-ai/AI-driven-work.git
+git clone https://github.com/ww-w-ai/AI-driven-work.git
 cd AI-driven-work
 ```
 
@@ -612,7 +612,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
    - 빨간색 에러 전체를 복사 (Ctrl+C 또는 ⌘+C)
 
 2. **GitHub Issue 생성**
-   - https://github.com/popup-studio-ai/AI-driven-work/issues
+   - https://github.com/ww-w-ai/AI-driven-work/issues
    - "New Issue" 클릭 → 에러 메시지 붙여넣기
 
 3. **팀원에게 물어보기**
@@ -639,13 +639,13 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 이 가이드가 도움이 되었나요? 개선할 점이 있나요?
 
-- 👍 좋았어요: [GitHub에 스타 남기기](https://github.com/popup-studio-ai/AI-driven-work)
-- 💬 궁금해요: [GitHub Discussions](https://github.com/popup-studio-ai/AI-driven-work/discussions)
-- 🐛 버그 발견: [GitHub Issues](https://github.com/popup-studio-ai/AI-driven-work/issues)
+- 👍 좋았어요: [GitHub에 스타 남기기](https://github.com/ww-w-ai/AI-driven-work)
+- 💬 궁금해요: [GitHub Discussions](https://github.com/ww-w-ai/AI-driven-work/discussions)
+- 🐛 버그 발견: [GitHub Issues](https://github.com/ww-w-ai/AI-driven-work/issues)
 
 ---
 
-**작성**: POPUP STUDIO
+**작성**: DubDubDub Corp.
 **최종 수정**: 2025-11-08
 **버전**: 1.0.0
 **대상**: 완전 초보자 (비개발자)
