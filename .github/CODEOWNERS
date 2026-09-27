@@ -5,10 +5,10 @@
 # 자세한 내용: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
 # 모든 파일의 기본 소유자
-* @popup-kay
+* @taekim34
 
 # 특정 디렉토리 소유자
-/scripts/ @popup-kay
-/.claude/ @popup-kay
-/docs/ @popup-kay
-/.github/ @popup-kay
+/scripts/ @taekim34
+/.claude/ @taekim34
+/docs/ @taekim34
+/.github/ @taekim34
