@@ -170,7 +170,7 @@ AI-driven-work/
 
 ```bash
 # 1. 리포지토리 클론
-git clone https://github.com/popupstudio/AI-driven-work.git
+git clone https://github.com/ww-w-ai/AI-driven-work.git
 cd AI-driven-work
 
 # 2. 자동 설정 스크립트 실행
@@ -183,7 +183,7 @@ cd AI-driven-work
 
 ```powershell
 # 1. 리포지토리 클론
-git clone https://github.com/popupstudio/AI-driven-work.git
+git clone https://github.com/ww-w-ai/AI-driven-work.git
 cd AI-driven-work
 
 # 2. PowerShell 실행 정책 확인 (최초 1회)
